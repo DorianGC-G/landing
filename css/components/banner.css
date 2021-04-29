@@ -1,0 +1,34 @@
+.hero-banner {
+  background-image: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.0)), url(http://i15.photobucket.com/albums/a362/jadams77/shower-stab.gif);
+  background-size: cover;
+  background-position: center;
+  padding: 200px 0;
+}
+
+#banner-desc {
+  width: 900px;
+  margin: auto;
+}
+
+#banner-desc p {
+  font-size: 14px;
+  color: white;
+}
+
+.btn-primary {
+  color: #494949 !important;
+  text-transform: uppercase;
+  text-decoration: none;
+  background: #ffffff;
+  padding: 15px;
+  border: 4px solid #494949 !important;
+  display: inline-block;
+  transition: all 0.4s ease 0s;
+}
+
+.btn-primary:hover {
+  color: #ffffff !important;
+  background: #ca2d2d;
+  border-color: #000000 !important;
+  transition: all 0.4s ease 0s;
+}
